@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/Chanzon-100pcs-0-25W-Metal-Resistor/dp/B08QRJZ82J/ref=sr_1_1_sspa?crid=2HE22HIF8YAN3&dib=eyJ2IjoiMSJ9.AmxVT3-Ruy5L9uHf4RZ5FhGn-oq_slhpgi2zZR_gOtx1fzrYSQEwK8YENUmqpAzUvr-sVXZ3MpRxberfWgl4zGSgzhT7AmEEJLrp_pYboACLaAkZD8LEL3VmmfGAKIj-CwXVls0f5HXhbZWYPhhlaJPLwI9Gz72ixCCCmdmbADaUEu4iY81xVDS5M5VSqAxv-wYzihAhe3bxxpdSOSO4KOWcNJgCeusegHTPLvtv1Kk.BAjzba0HL1qWfb6YcGTA33Le4aLDNbbQvH6Qix8JaZo&dib_tag=se&keywords=10k%2Bohm%2Bmetal%2Bfilm%2Bresistor%2B1%2F4w%2B1%25&qid=1791773900&sprefix=10k%2Bohm%2Bmetal%2Bfilm%2Bresistor%2B1%2F4w%2B1%25%2Caps%2C300&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | Pull-up resistor for the push buttons | 1 | $5.49 | $5.49 | [Amazon](https://www.amazon.com/Chanzon-100pcs-0-25W-Metal-Resistor/dp/B08QRJZ82J/ref=sr_1_1_sspa?crid=2HE22HIF8YAN3&dib=eyJ2IjoiMSJ9.AmxVT3-Ruy5L9uHf4RZ5FhGn-oq_slhpgi2zZR_gOtx1fzrYSQEwK8YENUmqpAzUvr-sVXZ3MpRxberfWgl4zGSgzhT7AmEEJLrp_pYboACLaAkZD8LEL3VmmfGAKIj-CwXVls0f5HXhbZWYPhhlaJPLwI9Gz72ixCCCmdmbADaUEu4iY81xVDS5M5VSqAxv-wYzihAhe3bxxpdSOSO4KOWcNJgCeusegHTPLvtv1Kk.BAjzba0HL1qWfb6YcGTA33Le4aLDNbbQvH6Qix8JaZo&dib_tag=se&keywords=10k%2Bohm%2Bmetal%2Bfilm%2Bresistor%2B1%2F4w%2B1%25&qid=1791773900&sprefix=10k%2Bohm%2Bmetal%2Bfilm%2Bresistor%2B1%2F4w%2B1%25%2Caps%2C300&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | [PCB](https://www.jlcpcb.com/) | Custom board everything mounts to | 1 | $4.00 | $4.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$60.38** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$60.38** | — |
+| **Tax & shipping** | — | — | — | **$7.00** | — |
+| **Total** | — | — | — | **$67.38** | — |
 
-**$30.38 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$37.38 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
