@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10h | 5 |
+| Week 1 | Tier 1 | 11.5h | 5 |
 
 ## Contents
 
@@ -78,7 +78,7 @@ set to move on to the PCB layout, and create the  board outline on the Edge.Cuts
 
 ### 2026-10-11 – Uploaded BOM and project files to github![Screenshot 2026-10-11 at 22.12.04](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/0e631a294d515266d2e375e93
 
-**2.5h**
+**4h**
 
 Uploaded BOM and project files to github![Screenshot 2026-10-11 at 22.12.04](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/0e631a294d515266d2e375e932979eb09a0f58c38517d668f95ee1e5764a6f5c.jpg)
 
@@ -86,3 +86,7 @@ started thinking about a design for starbie, started with following to pixel sta
 ![Screenshot 2026-10-11 at 22.24.39](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/041b0c7f06709a528a9da4a83f5942ee635adcb33c6fda89577705637e265a03.jpg)
 
 ![Screenshot 2026-10-11 at 22.22.14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/d4e082ecdb268dd462c1fb0b0ab82628d87617ae524296903e59be6b9d11b32f.jpg)
+
+final:
+
+![Screenshot 2026-10-11 at 23.02.22](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/2c65462477636af5c2db0ab79efd8eb2652b16dab23ae06cc9a5c7de550216df.jpg)
