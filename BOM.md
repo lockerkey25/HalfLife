@@ -15,9 +15,8 @@
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller running the Starbie pet logic | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [0.96" OLED](https://www.amazon.com/dp/B0GBVWBWCR) | 128×64 I²C display for the pet's face and menus | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Temperature/humidity sensor for environment reactions | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
-| [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Temperature/humidity sensor for environment reactions | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
-| **Parts subtotal** | — | — | — | **$30.85** | — |
+| **Parts subtotal** | — | — | — | **$20.92** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.85** | — |
+| **Total** | — | — | — | **$20.92** | — |
 
-**$0.85 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$9.08 left of the tier's funding.
