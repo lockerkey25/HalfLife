@@ -51,7 +51,13 @@ stats tick along in the background to give the pet some personality.
 - `BOM.md` — bill of materials for the Week 1 build.
 
 
+## Process 
+
+<img width="932" height="510" alt="Screenshot 2026-10-11 at 22 37 50" src="https://github.com/user-attachments/assets/e761ad83-b774-4da1-b963-f867534d21ca" />
+<img width="808" height="1104" alt="Screenshot 2026-10-11 at 22 37 37" src="https://github.com/user-attachments/assets/0f2c74dc-c562-42b9-824f-30077b72ae83" />
+
+
 ## Credits
 
-Starbie was created as the Half-Life Week 1 beginner tutorial project. Original
+Starbie was created as the Half-Life Week 1 beginner tutorial project from Hackclub. Original
 design and renders by [SharKingStudios](https://github.com/SharKingStudios/Starbie).
