@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12.5h | 5 |
+| Week 1 | Tier 1 | 13h | 5 |
 
 ## Contents
 
@@ -24,7 +24,7 @@
 
 ### 2026-10-07 – First time doing hardware! Planning to follow the Starbie tutorial, downloaded Kicad and started exploring. Planning to start drawing schematics.
 
-**2.5h**
+**3h**
 
 First time doing hardware! Planning to follow the Starbie tutorial, downloaded Kicad and started exploring. Planning to start drawing schematics.
 I
