@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.5h | 5 |
+| Week 1 | Tier 1 | 12.5h | 5 |
 
 ## Contents
 
 1. [2026-10-07 – First time doing hardware! Planning to follow the Starbie tutorial, downloaded Kicad and started exploring. Planning to start drawing schematics.](#2026-10-07-first-time-doing-hardware-planning-to-follow-the-)
 2. [2026-10-11 – Starting to get the hang of it!](#2026-10-11-starting-to-get-the-hang-of-it)
-3. [2026-10-11 – Moving from the Schematic Editor to the PCB Editor, next is routing the PCB. Took some time to fix the  'Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD' not found error. Took some debugging, and finally f](#2026-10-11-moving-from-the-schematic-editor-to-the-pcb-edito)
+3. [2026-10-11 – ![Screenshot 2026-10-11 at 23.03.01](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/d7567b2d5f36d78d77f7d60fdf9f83c49c0aea187912a788d9f15b07606d5fa4.](#2026-10-11-screenshot-2026-10-11-at-230301httpshalflifehackc)
 4. [2026-10-11 – Still figuring out the pin mismatch. Renamed and did a bunch of different things to try to see if its the correct saved location.](#2026-10-11-still-figuring-out-the-pin-mismatch-renamed-and-d)
 5. [2026-10-11 – Uploaded BOM and project files to github![Screenshot 2026-10-11 at 22.12.04](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/0e631a294d515266d2e375e93](#2026-10-11-uploaded-bom-and-project-files-to-githubscreensho)
 
@@ -49,10 +49,11 @@ It was very satisfying to learn all a new software like KiCad, especially the th
 
 ![Screenshot 2026-10-11 at 20.32.10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/4214e5c6dcdfb8431a3963eb242fec0868ac4bdf59f8b62d5bc7af350ddfcd3f.jpg)
 
-### 2026-10-11 – Moving from the Schematic Editor to the PCB Editor, next is routing the PCB. Took some time to fix the  'Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD' not found error. Took some debugging, and finally f
+### 2026-10-11 – ![Screenshot 2026-10-11 at 23.03.01](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/d7567b2d5f36d78d77f7d60fdf9f83c49c0aea187912a788d9f15b07606d5fa4.
 
-**1.5h**
+**2.5h**
 
+![Screenshot 2026-10-11 at 23.03.01](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/82B7Uz5qhKRQVW7orkpv03KAt9NgRrZm/d7567b2d5f36d78d77f7d60fdf9f83c49c0aea187912a788d9f15b07606d5fa4.jpg)
 Moving from the Schematic Editor to the PCB Editor, next is routing the PCB. Took some time to fix the  'Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD' not found error. Took some debugging, and finally first issue was solved. (import footprint incorrectly)
 But second issue was: U1 has more pins than the footprint has pads. Specifically, the symbol defines pins numbered 15–22, but the footprint XIAO-ESP32-C6-DIP has no pads with those numbers.
 
