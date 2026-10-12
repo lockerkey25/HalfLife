@@ -1,9 +1,9 @@
 # Starbie
 
-Starbie is a tiny motion-controlled digital pet — a desktop Tamagotchi-style
+My first hardware project, Starbie!
+It is a tiny motion-controlled digital pet / a desktop Tamagotchi-style
 companion that lives on a compact PCB. Instead of mashing buttons, you interact
-with it mostly by physically moving the board: tilt it, nudge it, and check in
-on it to keep it happy.
+with it mostly by physically moving the board.
 
 ![Starbie render](Renders/Starbie%20Render.png)
 
@@ -14,10 +14,10 @@ and renders in this repo are based on the original
 ## What it is
 
 Starbie sits on your desk, shows its personality on a small OLED display, and
-reacts to how you handle it. The board carries a microcontroller, a display, a
+reacts to how you handle it. The board will carry a microcontroller, a display, a
 motion sensor, and an environmental sensor in a single compact design. It is USB
 powered and built around beginner-friendly through-hole soldering for the add-on
-components, so it is a good first PCB-assembly project.
+components.
 
 ## How it works
 
@@ -41,7 +41,7 @@ stats tick along in the background to give the pet some personality.
 | --- | --- |
 | ![Front of the Starbie board](Renders/Starbie%20Front.png) | ![Back of the Starbie board](Renders/Starbie%20Back.png) |
 
-## Repository contents
+## Repo dir
 
 - `Starbie/` — KiCad source files for the PCB (`.kicad_pcb`, `.kicad_pro`,
   `.kicad_sch`).
@@ -50,14 +50,6 @@ stats tick along in the background to give the pet some personality.
   add-on parts (XIAO ESP32-C3, OLED, MPU6050).
 - `BOM.md` — bill of materials for the Week 1 build.
 
-## Building it
-
-1. Open `Starbie/Starbie.kicad_pro` in [KiCad](https://www.kicad.org/) to view or
-   edit the schematic and PCB layout.
-2. Have the PCB fabricated (for example at JLCPCB, see `BOM.md`).
-3. Solder the through-hole add-on components (XIAO, display header, sensor
-   header, buttons) onto the board.
-4. Power it over USB-C and flash the firmware for the XIAO ESP32-C3.
 
 ## Credits
 
