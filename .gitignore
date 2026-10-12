@@ -1,0 +1,11 @@
+# KiCad editor lock files
+*.lck
+~*.lck
+
+# KiCad backups / autosave
+*-bak
+*.bak
+_autosave-*
+
+# macOS
+.DS_Store
